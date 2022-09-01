@@ -1,12 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
+Welcome to the TerrorByteTW organization. This primarily serves as a way to separate my personal repos from my "production" ones, or ones that I create specifically for public use.
 
-**Here are some ideas to get you started:**
+## My work
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The "flagship" project in this org is Honeypot, an anti-grief plugin designed to help catch griefers. I develop it for fun, but people actually use it, which is kinda cool! Check out some stats below on it
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/TerrrorByte/Honeypot?label=Honeypot%20Stars)](https://github.com/TerrrorByte/Honeypot) [![bStats Servers](https://img.shields.io/bstats/servers/15425?label=Servers%20using%20Honeypot)](https://bstats.org/plugin/bukkit/Honeypot/15425) [![bStats Players](https://img.shields.io/bstats/players/15425?label=Players%20using%20Honeypot)](https://bstats.org/plugin/bukkit/Honeypot/15425)
