@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to the TerrorByteTW organization, created by [Nate Reprogle](https://github.com/TerrrorByte). This primarily serves as a way to separate my personal repos from my "production" ones, or ones that I create specifically for public use.
+Welcome to the TerrorByteTW organization, created by [Nate Reprogle](https://github.com/natereprogle). This primarily serves as a way to separate my personal repos from my "production" ones, or ones that I create specifically for public use.
 
 ## My work
 
